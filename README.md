@@ -6,7 +6,7 @@ This Assignment is build on Basic CSS Properites contains Border, Lists, etc.
 CSS Properties used in this assignment are :
 1. Font : Different font family
 2. List : Unordered and Ordered list
-3. Text : Differnt text properties
+3. Text : Different text properties
 4. Background : Background Color and Background Image
 5. Border : Dotted, Dashed, Solid, Double, Mix, Hidden, No Border
 6. Transformation : 2D and 3D Transformation
